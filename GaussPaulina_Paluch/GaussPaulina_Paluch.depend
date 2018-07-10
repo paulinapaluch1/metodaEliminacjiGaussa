@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515260595 source:c:\users\toshiba\desktop\gausspaulina_paluch\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+
